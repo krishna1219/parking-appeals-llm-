@@ -1,0 +1,51 @@
+appeal_id,site_type,appeal_text,true_label
+A001,hospital,"I am a Blue Badge holder and parked in the disabled bay outside outpatients. My badge was on the dashboard but must have slipped off when I shut the door. Photo of my badge attached.",blue_badge
+A002,hospital,"My mother has a Blue Badge and I drove her to her eye clinic appointment. The badge was displayed but it was upside down. Please cancel the charge.",blue_badge
+A003,retail,"Parked in an accessible bay with my blue badge clearly visible. Your camera photo only shows the number plate AB12 CDE so of course you cannot see the dashboard.",blue_badge
+A004,residential,"I am disabled and my badge expired last week. The renewal is with the council and I have attached their confirmation email.",blue_badge
+A005,retail,"Charged for overstaying in the disabled bays at the retail park. As a badge holder I need longer to get round the shops and the bays did not say there was a time limit for badge holders.",blue_badge
+A006,hospital,"My husband is a wheelchair user and holds a disabled badge. Every accessible bay was taken so we parked in a normal bay right by the entrance with his badge on display.",blue_badge
+A007,commercial,"Blue Badge holder here. Reception told me badge holders do not need to register their car on the visitor tablet, so I didn't.",blue_badge
+A008,hospital,"Disabled badge was displayed the whole time, badge number on the attached photo. Please look at your images again.",blue_badge
+A009,retail,"The signs at the entrance are completely covered by overgrown hedges. I had no idea this was a paid car park.",signage
+A010,retail,"There is no sign anywhere near where I parked saying the maximum stay is 2 hours.",signage
+A011,commercial,"Your sign says free after 6pm. I was charged at 6:20pm. How is that right?",signage
+A012,residential,"The writing on the signs is far too small to read from a car and there is no sign at the entrance at all.",signage
+A013,retail,"The signs were changed last month to say permit holders only but the old sign by the trolley bay still says customer parking. Nobody would know.",signage
+A014,commercial,"The tariff board had been vandalised and was unreadable so I could not see how much to pay or what the rules were.",signage
+A015,university,"It was dark when I arrived and none of the signs are lit. There was no way to read any terms and conditions.",signage
+A016,residential,"I parked on what looks like a public road. There was nothing to say it was private land.",signage
+A017,retail,"I paid 3.50 through the app but you say there is no payment for AB12 CDE. My bank statement showing the payment is attached.",payment_error
+A018,hospital,"The pay machine was out of order and would not take card or coins. I tried twice.",payment_error
+A019,commercial,"I paid for my stay but typed my registration with the letter O instead of a zero. The payment was made at the correct time.",payment_error
+A020,retail,"I have been charged twice. Once by the app for the parking and then this PCN saying I didn't pay.",payment_error
+A021,hospital,"The parking app crashed when I tried to pay and would not load for about 15 minutes. I paid as soon as it worked.",payment_error
+A022,retail,"I paid at the machine with my card but it did not print a ticket. The payment shows on my card statement.",payment_error
+A023,commercial,"The app charged me under the wrong car park code because the location pin was wrong. I still paid in full.",payment_error
+A024,university,"My receipt shows I paid for 3 hours but your letter says I stayed 2 hours 40 minutes without paying.",payment_error
+A025,retail,"The card reader said transaction declined three times but my bank says nothing was attempted. I left to get cash and came straight back.",payment_error
+A026,residential,"I have a valid resident permit for bay 14. I got a new car last week and the e-permit has not been updated to the new registration yet.",permit
+A027,hospital,"I am a nurse here and have a staff permit. I was parked in the staff car park on a night shift.",permit
+A028,residential,"My e-permit ran out on the 1st but I renewed online on the 2nd. The charge was issued on the 3rd.",permit
+A029,residential,"My neighbour put in a visitor permit for me but he typed the wrong registration. Contact him on 07700 900123 to confirm.",permit
+A030,university,"I am a student with a university parking permit. I parked in zone B but my permit is for zone A because zone A was full.",permit
+A031,residential,"I have a contractor permit from the housing association to carry out repairs at block C.",permit
+A032,residential,"My tenancy includes a parking space and my landlord said a permit would be sent to me. It still has not arrived.",permit
+A033,residential,"Our management company moved to a new permit system and my permit did not transfer across. Email me at j.patel@example.com.",permit
+A034,commercial,"I hold a permit for this car park but I was driving my partner's car that day, registration CD34 EFG.",permit
+A035,hospital,"My son had a severe asthma attack and I drove straight to A&E. Paying for parking was the last thing on my mind.",emergency
+A036,retail,"My car broke down in your car park and I waited three hours for recovery. The recovery report is attached.",emergency
+A037,hospital,"My wife went into labour early and we rushed straight into the delivery suite.",emergency
+A038,retail,"I felt very unwell while shopping and was looked after in the first aid room for over an hour.",emergency
+A039,retail,"There was a gas leak at the shopping centre and everyone was evacuated. We were not allowed back to our cars.",emergency
+A040,hospital,"My father passed away on the ward that afternoon and I stayed with my family. I could not think about moving the car.",emergency
+A041,commercial,"I was in a minor collision at the car park entrance and had to wait for the other driver's insurer and the police.",emergency
+A042,retail,"I came back to a flat tyre and could not leave until it was changed.",emergency
+A043,residential,"I was not the driver at the time. My brother was using the car that week.",other
+A044,commercial,"I sold this car two weeks before the date on your notice. The DVLA confirmation is attached.",other
+A045,retail,"I was only in the car park for 6 minutes to drop off a parcel. That is within any reasonable grace period.",other
+A046,retail,"A 100 pound charge for 10 minutes is excessive and unfair.",other
+A047,commercial,"My car has been cloned. I was in Leeds, 200 miles away, on the day of this charge.",other
+A048,retail,"The photos show a different car to mine. Same plate but a different make and colour.",other
+A049,retail,"The car park was full so I drove in and straight back out. Your cameras logged it as a 12 minute stay.",other
+A050,residential,"I never received the first letter, only this one from a debt collector.",other
